@@ -1,0 +1,25 @@
+# maven
+/target
+
+# gradle
+/.gradle
+/build
+
+# idea
+/.idea
+*.iml
+*.ipr
+*.iws
+
+# eclipse
+.classpath
+.project
+.settings
+/bin
+
+# mac
+*.DS_Store
+
+:# Android
+local.properties
+
